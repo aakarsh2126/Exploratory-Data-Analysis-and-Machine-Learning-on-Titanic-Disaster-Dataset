@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis-and-Machine-Learning-on-Titanic-Disaster-Dataset
-Analyzing the titanic data set and creating machine learning models is the first step towards data science. This project is the first competition of Kaggle. I have impelemented many models and also tried to use one of the Ensembling methods for better accuracy.
+Analyzing the titanic data set and creating machine learning models is the first step towards data science. This project is the first competition of Kaggle. I have implemented many models and also tried to use one of the Ensembling methods for better accuracy.
 ##  Models Used
 ### Logistic Regression
 ### K - Nearest Neighbours
